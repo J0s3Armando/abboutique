@@ -1,27 +1,33 @@
 {
   "files": {
-    "main.css": "/abboutique/static/css/main.e243703f.chunk.css",
-    "main.js": "/abboutique/static/js/main.6c2fc6dd.chunk.js",
-    "main.js.map": "/abboutique/static/js/main.6c2fc6dd.chunk.js.map",
+    "main.css": "/abboutique/static/css/main.034ba7ec.chunk.css",
+    "main.js": "/abboutique/static/js/main.d17cb56d.chunk.js",
+    "main.js.map": "/abboutique/static/js/main.d17cb56d.chunk.js.map",
     "runtime-main.js": "/abboutique/static/js/runtime-main.37b0fe30.js",
     "runtime-main.js.map": "/abboutique/static/js/runtime-main.37b0fe30.js.map",
-    "static/js/2.6e146398.chunk.js": "/abboutique/static/js/2.6e146398.chunk.js",
-    "static/js/2.6e146398.chunk.js.map": "/abboutique/static/js/2.6e146398.chunk.js.map",
+    "static/css/2.60b2d179.chunk.css": "/abboutique/static/css/2.60b2d179.chunk.css",
+    "static/js/2.349b6d15.chunk.js": "/abboutique/static/js/2.349b6d15.chunk.js",
+    "static/js/2.349b6d15.chunk.js.map": "/abboutique/static/js/2.349b6d15.chunk.js.map",
     "index.html": "/abboutique/index.html",
-    "static/css/main.e243703f.chunk.css.map": "/abboutique/static/css/main.e243703f.chunk.css.map",
-    "static/js/2.6e146398.chunk.js.LICENSE.txt": "/abboutique/static/js/2.6e146398.chunk.js.LICENSE.txt",
-    "static/media/portada.26abcb4c.jpeg": "/abboutique/static/media/portada.26abcb4c.jpeg",
-    "static/media/prod-1.jpeg": "/abboutique/static/media/prod-1.54c75331.jpeg",
-    "static/media/prod-2.jpeg": "/abboutique/static/media/prod-2.649e0944.jpeg",
-    "static/media/prod-3.jpeg": "/abboutique/static/media/prod-3.78cb6ace.jpeg",
-    "static/media/prod-4.jpeg": "/abboutique/static/media/prod-4.0181c58c.jpeg",
-    "static/media/prod-5.jpeg": "/abboutique/static/media/prod-5.0664bf23.jpeg",
-    "static/media/index.css": "/abboutique/static/media/thumb.10ae0fc8.jpg"
+    "static/css/2.60b2d179.chunk.css.map": "/abboutique/static/css/2.60b2d179.chunk.css.map",
+    "static/css/main.034ba7ec.chunk.css.map": "/abboutique/static/css/main.034ba7ec.chunk.css.map",
+    "static/js/2.349b6d15.chunk.js.LICENSE.txt": "/abboutique/static/js/2.349b6d15.chunk.js.LICENSE.txt",
+    "static/media/portada-1.jpeg": "/abboutique/static/media/portada-1.fc0b6276.jpeg",
+    "static/media/portada-2.jpeg": "/abboutique/static/media/portada-2.acc4037a.jpeg",
+    "static/media/portada-3.jpeg": "/abboutique/static/media/portada-3.430aab78.jpeg",
+    "static/media/portada-4.jpeg": "/abboutique/static/media/portada-4.c45b33e1.jpeg",
+    "static/media/prod-1.jpeg": "/abboutique/static/media/prod-1.c37f87a1.jpeg",
+    "static/media/prod-2.jpeg": "/abboutique/static/media/prod-2.3ec9c819.jpeg",
+    "static/media/prod-3.jpeg": "/abboutique/static/media/prod-3.f1c1764e.jpeg",
+    "static/media/prod-4.jpeg": "/abboutique/static/media/prod-4.f539c4fa.jpeg",
+    "static/media/prod-5.jpeg": "/abboutique/static/media/prod-5.0edff71b.jpeg",
+    "static/media/index.css": "/abboutique/static/media/thumb.fa74cea9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.37b0fe30.js",
-    "static/js/2.6e146398.chunk.js",
-    "static/css/main.e243703f.chunk.css",
-    "static/js/main.6c2fc6dd.chunk.js"
+    "static/css/2.60b2d179.chunk.css",
+    "static/js/2.349b6d15.chunk.js",
+    "static/css/main.034ba7ec.chunk.css",
+    "static/js/main.d17cb56d.chunk.js"
   ]
 }
